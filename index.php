@@ -13,5 +13,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <h1>Hello World</h1>
     </body>
 </html>
